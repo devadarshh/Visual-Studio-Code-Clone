@@ -12,14 +12,9 @@ https://devadarshh-vs-code-clone.netlify.app/
 - 📁 Sidebar with File Explorer and Icons  
 - 🧭 Activity Bar with VS Code-like icons  
 - 🪟 Editor section with tabs and code view  
-- 🌙 Dark theme  
 - 📱 Responsive design
 
 ## 🛠️ Built With
 
 - HTML5  
 - CSS3  
-- Boxicons or Font Awesome (for icons, if used)
-
-## 📂 Folder Structure
-
